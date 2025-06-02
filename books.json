@@ -1,0 +1,124 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "descricao": "Uma história de amor, ciúme e dúvida através dos olhos de Bentinho",
+      "ano": 1899,
+      "genero": "Romance"
+    },
+    {
+      "id": 2,
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "descricao": "Uma fábula poética sobre amor, amizade e o sentido da vida",
+      "ano": 1943,
+      "genero": "Literatura Infantil"
+    },
+    {
+      "id": 3,
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "descricao": "Saga da família Buendía em Macondo",
+      "ano": 1967,
+      "genero": "Realismo Mágico"
+    },
+    {
+      "id": 4,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "descricao": "Distopia sobre vigilância governamental e controle social",
+      "ano": 1949,
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": 5,
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "descricao": "Épica jornada para destruir o Um Anel",
+      "ano": 1954,
+      "genero": "Fantasia"
+    },
+    {
+      "id": 6,
+      "titulo": "Grande Sertão: Veredas",
+      "autor": "João Guimarães Rosa",
+      "descricao": "Saga de Riobaldo pelo sertão brasileiro",
+      "ano": 1956,
+      "genero": "Romance"
+    },
+    {
+      "id": 7,
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "descricao": "Primeiro ano de Harry na escola de magia Hogwarts",
+      "ano": 1997,
+      "genero": "Fantasia"
+    },
+    {
+      "id": 8,
+      "titulo": "O Alquimista",
+      "autor": "Paulo Coelho",
+      "descricao": "Jornada espiritual de um pastor em busca de seu sonho",
+      "ano": 1988,
+      "genero": "Ficção Espiritual"
+    },
+    {
+      "id": 9,
+      "titulo": "Crime e Castigo",
+      "autor": "Fiódor Dostoiévski",
+      "descricao": "Drama psicológico sobre culpa e redenção",
+      "ano": 1866,
+      "genero": "Romance Psicológico"
+    },
+    {
+      "id": 10,
+      "titulo": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "descricao": "Narrativa irônica de um defunto autor",
+      "ano": 1881,
+      "genero": "Romance"
+    },
+    {
+      "id": 11,
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "descricao": "História de um homem que acorda transformado em inseto",
+      "ano": 1915,
+      "genero": "Ficção Absurdista"
+    },
+    {
+      "id": 12,
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "descricao": "Aventura de Bilbo Bolseiro até a Montanha Solitária",
+      "ano": 1937,
+      "genero": "Fantasia"
+    },
+    {
+      "id": 13,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "descricao": "Romance entre Elizabeth Bennet e Mr. Darcy",
+      "ano": 1813,
+      "genero": "Romance"
+    },
+    {
+      "id": 14,
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "descricao": "Fábula política sobre poder e corrupção",
+      "ano": 1945,
+      "genero": "Sátira Política"
+    },
+    {
+      "id": 15,
+      "titulo": "O Nome do Vento",
+      "autor": "Patrick Rothfuss",
+      "descricao": "História do lendário mago Kvothe",
+      "ano": 2007,
+      "genero": "Fantasia"
+    }
+  ]
+} 
